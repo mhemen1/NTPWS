@@ -1,1 +1,1 @@
-Ovo je repozitorij s rješenim vježbama po folderima sa predavanja. 
+Ovo je repozitorij s rješenim vježbama i projektom po folderima s predavanja. 
